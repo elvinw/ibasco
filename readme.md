@@ -7,9 +7,10 @@ _last updated 9.10.16_
 - Wordpress MySQL db
 - WooCommerce
 
-### Local development timeline
+### Front end development timeline
 - Install Wordpress (completed 9.10)
 - Install WooCommerce on Wordpress (c. 9.10)
+- Company metrics, locale, and payment options
 - Define and install extensions
 - Define site map and specifications
 - HTML engineering to specs
@@ -17,11 +18,11 @@ _last updated 9.10.16_
 - Client user creation
 . . .
 
-### Theme testing
+### Theme testing with product catalogue
 - Create LAMP stack on host
 - Create WP db
 - Reconfig wp-config.php and database columns
 . . .
 
-### Deployment
+### Testing and deployment
 - TBD
