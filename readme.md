@@ -14,6 +14,7 @@ _last updated 9.10.16_
 - Define site map and specifications
 - HTML engineering to specs
 - CSS engineering
+- Client user creation
 . . .
 
 ### Theme testing
