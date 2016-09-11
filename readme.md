@@ -25,4 +25,10 @@ _last updated 9.10.16_
 . . .
 
 ### Testing and deployment
+- Add necessary extensions
+  - Stripe
+  - PayPal by Braintree
+  - Authorize.net
+  - Amazon Payments
+- SSL Certificate
 - TBD
